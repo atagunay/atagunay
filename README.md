@@ -1,8 +1,8 @@
 ### Hi there 👋, I'am Ata Günay
 #### Computer Science Student
-I am a third year software engineering student at Istanbul Maltepe University.
+I am a third year software engineering student at Istanbul Maltepe University and backend developer.
 
-Skills: C, C#, Java, SpringBoot, Python, Unity, GO
+Skills: C, C#, Java, SpringBoot, Python, Unity, GO, Ruby, Ruby on Rails
  
 - 📫 How to reach me: atagunay9@gmail.com 
 

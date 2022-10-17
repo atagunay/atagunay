@@ -1,6 +1,6 @@
 ### Hi there 👋, I'am Ata Günay
 #### Computer Science Student
-I am a third year software engineering student at Istanbul Maltepe University and backend developer.
+I am a fourth year software engineering student at Istanbul Maltepe University and backend developer.
 
 
 - 📫 How to reach me: atagunay9@gmail.com 

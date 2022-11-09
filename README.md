@@ -8,5 +8,5 @@ I am a fourth year software engineering student at Istanbul Maltepe University a
 
 [<img src='https://github.com/ismailkrc57/Xamarin-app-calculator/blob/master/icons8_linkedin_2.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/atagunay/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atagunay)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atagunay)](https://github.com/atagunay/github-readme-stats) 
 

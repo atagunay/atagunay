@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrum Günlükleri](https://medium.com/@atagunay9/scrum-g%C3%BCnl%C3%BCkleri-ae37e063fbcd?source=rss-52f26148c451------2)
 - [ActiveRecord::PreparedStatementCacheExpired Hatası ve Çözümü](https://medium.com/fazla-think-tank/activerecord-preparedstatementcacheexpired-hatas%C4%B1-ve-%C3%A7%C3%B6z%C3%BCm%C3%BC-851ae5735929?source=rss-52f26148c451------2)
 - [Ruby’ de Block &amp; Proc &amp; Lambda &amp; Closure Nedir?](https://medium.com/fazla-think-tank/ruby-de-block-proc-lambda-closure-nedir-85edaa60fb5b?source=rss-52f26148c451------2)
 - [Ruby Regex İfadeler](https://medium.com/fazla-think-tank/ruby-regex-i%CC%87fadeler-8bfbb6739ba4?source=rss-52f26148c451------2)
 - [Rails Routes Hakkında Her Şey](https://medium.com/fazla-think-tank/rails-routes-hakk%C4%B1nda-her-%C5%9Fey-daf85ba07b87?source=rss-52f26148c451------2)
-- [Git İle Aynı Dosyada Çalışmak](https://medium.com/fazla-think-tank/git-i%CC%87le-ayn%C4%B1-dosyada-%C3%A7al%C4%B1%C5%9Fmak-638de9500ac9?source=rss-52f26148c451------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

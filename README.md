@@ -1,16 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ata Günay</h1>
 
-- 🌱 I’m currently learning **Ruby on Rails & React & AWS**
-
-- 👨‍💻 All of my projects are available at [Soon](Soon)
-
 - 📝 I regularly write articles on [https://medium.com/@atagunay9](https://medium.com/@atagunay9)
 
-- 💬 Ask me about **Ruby on Rails**
+- 📫 How to reach me **ata.gunay@outlook.com**
 
-- 📫 How to reach me **atagunay9@gmail.com**
-
-- 📄 Know about my experiences [Soon](Soon)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

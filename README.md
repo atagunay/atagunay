@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ata Günay</h1>
+<h1 align="center">Hi 👋, I'm Ata Gunay</h1>
 
 - 📝 I regularly write articles on [https://medium.com/@atagunay9](https://medium.com/@atagunay9)
 

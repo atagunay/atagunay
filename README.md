@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ata Gunay</h1>
 
+- 🔗 My Linkedin profile on [here](https://www.linkedin.com/in/atagunay/)
+
 - 📝 I regularly write articles on [https://medium.com/@atagunay9](https://medium.com/@atagunay9)
 
 - 📫 How to reach me **ata.gunay@outlook.com**

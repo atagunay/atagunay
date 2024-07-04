@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Server Side Sessions — Ruby on Rails](https://medium.com/@atagunay9/server-side-sessions-ruby-on-rails-3393abae9930?source=rss-52f26148c451------2)
 - [What should we do for code review?](https://medium.com/passgage-tech/what-should-we-do-for-code-review-a8f5dc7c3eba?source=rss-52f26148c451------2)
 - [Zero-To-Hero Big O &amp; Time Complexity](https://medium.com/@atagunay9/zero-to-hero-big-o-time-complexity-e366d2b20a77?source=rss-52f26148c451------2)
 - [target=“_blank” Zaafiyeti](https://medium.com/fazla-think-tank/target-blank-zaafiyeti-af1155af1a2a?source=rss-52f26148c451------2)
 - [Scrum Günlükleri](https://medium.com/@atagunay9/scrum-g%C3%BCnl%C3%BCkleri-ae37e063fbcd?source=rss-52f26148c451------2)
-- [ActiveRecord::PreparedStatementCacheExpired Hatası ve Çözümü](https://medium.com/fazla-think-tank/activerecord-preparedstatementcacheexpired-hatas%C4%B1-ve-%C3%A7%C3%B6z%C3%BCm%C3%BC-851ae5735929?source=rss-52f26148c451------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

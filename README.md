@@ -10,8 +10,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Server Side Sessions — Ruby on Rails](https://medium.com/@atagunay9/server-side-sessions-ruby-on-rails-3393abae9930?source=rss-52f26148c451------2)
-- [What should we do for code review?](https://medium.com/anka-software-club/what-should-we-do-for-code-review-a8f5dc7c3eba?source=rss-52f26148c451------2)
-- [Zero-To-Hero Big O &amp; Time Complexity](https://medium.com/anka-software-club/zero-to-hero-big-o-time-complexity-e366d2b20a77?source=rss-52f26148c451------2)
+- [What should we do for code review?](https://medium.com/@atagunay9/what-should-we-do-for-code-review-a8f5dc7c3eba?source=rss-52f26148c451------2)
+- [Zero-To-Hero Big O &amp; Time Complexity](https://medium.com/@atagunay9/zero-to-hero-big-o-time-complexity-e366d2b20a77?source=rss-52f26148c451------2)
 - [target=“_blank” Zaafiyeti](https://medium.com/fazla-think-tank/target-blank-zaafiyeti-af1155af1a2a?source=rss-52f26148c451------2)
 - [Scrum Günlükleri](https://medium.com/@atagunay9/scrum-g%C3%BCnl%C3%BCkleri-ae37e063fbcd?source=rss-52f26148c451------2)
 <!-- BLOG-POST-LIST:END -->
